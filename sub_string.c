@@ -18,6 +18,7 @@ void main()
 	printf("From which character: ");
 	scanf("%c",&chara1);
 	printf("Sub string\n");
+	printf("srihari the edventure,sublime,grit,resilience\n");
 	printf("------------\n");
 	for(i=0;arr[i]!='\0';i++)
 	{
